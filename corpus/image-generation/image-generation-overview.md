@@ -9,6 +9,7 @@ Community activity around AI image generation models, prompt engineering librari
 
 ## Articles
 - [[awesome-gpt-image-2-prompts]] — curated GPT-Image-2 prompts across portraits, posters, UI mockups, and character sheets
+- [[gpt2api]] — reverse-engineered OpenAI-compatible gateway wrapping ChatGPT.com with GPT-Image-2 batch generation, multi-account pooling, and high-concurrency scheduling
 
 ## Key Takeaways
 - Image generation prompt engineering is following the same community-curation pattern as LLM prompt libraries.

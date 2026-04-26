@@ -1,6 +1,6 @@
 # Agent Frameworks Overview
 
-Frameworks and harnesses for building autonomous agents — the runtime layer underneath domain-specific [[agent-skills-overview|skills]]. The trending data shows two divergent design philosophies emerging:
+Frameworks and harnesses for building autonomous agents — the runtime layer underneath domain-specific [[agent-skills-overview|skills]]. The trending data shows four divergent design philosophies emerging:
 
 1. **Minimalist self-healing** — tiny harnesses where the LLM writes its own missing helpers ([[browser-harness]]).
 2. **Language-first** — a programming language whose primitives *are* agents, LLM calls, and human-in-the-loop pauses ([[weft]]).

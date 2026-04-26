@@ -9,7 +9,10 @@
 - [[html-ppt-skill]] — HTML presentations with themes/layouts
 - [[design-extract]] — extract design systems from any website
 - [[video-use]] — agentic video editing
-- [[uzi-skill]] — investment analysis skill
+- [[uzi-skill]] — investment analysis skill distilling 51 professionals, 22 dimensions, 180 rules across A/HK/US markets
+- [[huashu-design]] — HTML-native design skill for Claude Code (Chinese-native entry in the design-skill ecosystem)
+- [[kami]] — document design system skill: six templates (one-pager, resume, slides, portfolio, letter, long-form doc)
+- [[diagram-design]] — thirteen editorial-quality diagram types in HTML/SVG, no Mermaid
 
 ## Patterns Worth Noting
 - **Domain-specific skills** dominate the trending list — investment analysis, video editing, design extraction. The skill format is being used to encode *expertise*, not just *tools*.

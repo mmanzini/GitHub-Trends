@@ -18,4 +18,4 @@
 - Sustained trending does not equal legitimate; trending != curated.
 
 ## Related
-- (Standalone — no links to other topics.)
+- [[masterhttp-relay-vpn|MasterHTTP Relay VPN]]

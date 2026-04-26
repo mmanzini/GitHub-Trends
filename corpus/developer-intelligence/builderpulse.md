@@ -19,4 +19,4 @@ AI-powered daily intelligence for indie hackers and builders. 20 questions answe
 - Worth watching as a template for niche daily-intelligence agents in other domains.
 
 ## Related
-- (Standalone — not directly tied to other trending categories.)
+- [[pyre-code|Pyre: ML Practice Platform]]
