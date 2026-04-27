@@ -20,7 +20,7 @@ When I say "consolidate" or dump new material in trending/:
 5. Update corpus/_master-index.md
 6. If a trending file spans multiple topics, create articles in both and cross-link
 7. Regenerate corpus/README.md — read _master-index.md and produce a GitHub-friendly mirror using standard relative markdown links (not [[wiki links]]), keeping the topic list and descriptions in sync
-8. Delete each successfully-consolidated file from `trending/`. Only delete after steps 1–7 complete without error for that file. If a trending file could not be processed (unreadable, ambiguous topic unresolved, step failure), leave it in `trending/` and report it — short-term material is cleared only once it's safely in long-term memory.
+8. Do NOT delete source files from `trending/`. Leave all trending files in place after consolidation — `trending/` is an archive, not a queue. This aligns with the parent vault rule: source files are only cleared from input zones named `sources/`.
 
 ### Querying
 When answering questions against the knowledge base:
